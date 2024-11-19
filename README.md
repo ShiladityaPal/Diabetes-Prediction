@@ -89,6 +89,3 @@ Gradient Boosting: 0.92
 
 ## Contributing
 Feel free to open issues or submit pull requests if you'd like to contribute. Suggestions and improvements are welcome!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
